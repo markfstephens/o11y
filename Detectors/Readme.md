@@ -1,1 +1,1 @@
-This is folder for Detectors
+#o11y Detectors
